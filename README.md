@@ -3,6 +3,9 @@
 ## 概要
 レイヤーに対して、装飾をするクラスです。
 
+## 例
+<img width="317" alt="2017-05-20 7 06 13" src="https://cloud.githubusercontent.com/assets/9479568/26268596/f08ae3dc-3d2a-11e7-8adb-c29ed280fc11.png">
+
 ## 主要プロパティ
 
 |プロパティ名|説明|サンプル|
